@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.choices-container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.choice {
+    width: 40%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #ccc;
+}
+
+.choice a {
+    text-decoration: none;
+    color: #333;
+}
+
+.choice img {
+    max-width: 100%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.choice h2 {
+    font-size: 24px;
+    margin-bottom
+}
